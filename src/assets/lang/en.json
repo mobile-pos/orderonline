@@ -1,0 +1,159 @@
+{
+  "message": {
+    "lang": "en",
+    "button": {
+      "sure": "Confirm",
+      "cancel": "Cancel"
+    },
+    "abortOpt": {
+      "abortOptions": "You have aborted the current operation"
+    },
+    "flavor": {
+      "required": {
+        "warn": "Required option cannot be empty"
+      }
+    },
+    "goods": {
+      "selledInMonth": "selled",
+      "unit": "unit",
+      "goodEvaluate": "Good",
+      "currency": "$",
+      "inputShopCar": "put it to shopcar",
+      "selectFlavor": "Select",
+      "normal": "normal"
+    },
+    "flavors": {
+      "necessary": "Required",
+      "multipleOptions": "multiple Options(not must)",
+      "specialReq": "(Options) Please enter your special requirements."
+    },
+    "errorTips": {
+      "255": "The restaurant is not on line normally. Please contact the waiter.",
+      "otherCode": "The input parameter is abnormal and the return code is",
+      "netError": "Network exception, temporarily unable to obtain follow-up data, 10 seconds later retry"
+    },
+    "sellers": {
+      "activities": "activities",
+      "preferential": "preferential information",
+      "bulletin": "business bulletin"
+    },
+    "shopcarts": {
+      "shopcart": "ShoppingCart",
+      "empty": "Empty"
+    },
+    "app": {
+      "pages": {
+        "restaurantsNearby": "nearby Restaurants",
+        "restaurantsPosition": "Restaurant's Position",
+        "worktime": "Work Time",
+        "phone": "Phone",
+        "mineInfo": "My Information",
+        "login": "Login",
+        "myCollection": "My Collection",
+        "myRestaurants": "Restaurants visited ",
+        "myAddress": "My Address",
+        "about": "Abort",
+        "oneMore": "Once Again",
+        "currentContact": "OrderNo."
+      },
+      "Home": "Home",
+      "Orders": "Orders",
+      "Mine": "Mine"
+    },
+    "pad": {
+      "currentTableID": "Current Table",
+      "chooseTableID": "Please choose Table"
+    },
+    "table": {
+      "tableID": "Table",
+      "selTableID": "Table selected",
+      "unknownTable": "Unknown Table Number"
+    },
+    "shopcart": {
+      "orderedTips": "Order Success",
+      "state": {
+        "queueUp": "Queue up",
+        "cooking": "Cooking",
+        "delivering": "Delivering",
+        "giveUp": "GiveUp",
+        "finish": "Finish"
+      },
+      "contact": {
+        "confirmContact": "Confirm Your Contact",
+        "phone": "Phone",
+        "phoneTips": "Please input your phone",
+        "name": "Name",
+        "nameTips": "Please input your nane",
+        "address": "Address",
+        "addressTips": "Please input your address",
+        "gratuity": "gratuity",
+        "gratuityTips": "The waiter worked hard and tipped the waiter.",
+        "mark": "Mark",
+        "markTips": "Enter what you want to say to the chef",
+        "incompleteInfor": "Please confirm your contact information: name, address, telephone can not be empty",
+        "pay-tips": "Please keep the phone open. Your meal will be served soon. Please prepare cash change in advance so that you can pay quickly and save your time."
+      },
+      "tips": {
+        "order": "Place an order",
+        "orderAlarm1": "You anticipate consumption",
+        "orderAlarm2": "，Are you sure to place the order?"
+      },
+      "button": {
+        "payDesc1": "Place order",
+        "payDesc2": "Append order"
+      }
+    },
+    "queue": {
+      "receiptTitle": "Dining &nbsp;&nbsp; consumption list",
+      "queueID": "Queue number",
+      "waitCount": "Waiting number",
+      "submitTime": "Submission time",
+      "foodName": "Food Name",
+      "count": "Count",
+      "price": "Price",
+      "amount": "Amount"
+    },
+    "ordering": {
+      "title": "Ordering",
+      "takeFoodType": "Take Food: ",
+      "deliver": "Deliver",
+      "pickup": "Picup",
+      "contact": "Contact",
+      "phone": "Phone",
+      "table": "Table",
+      "address": "Address",
+      "phoneTips": "Please in put Phone",
+      "addressTips": "Please in put Address",
+      "prePayType": "Prepay Type: ",
+      "creditCard": "Credit Card",
+      "orderDetail": "Order Detail",
+      "total": "Total",
+      "tax": "Tax",
+      "amount": "Amount",
+      "mark": "Mark",
+      "markTips": "Please Order's Mark",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "orderTips": "The actual fees payable shall be subject to the small ticket of on-site order",
+      "creditOrderdTips": "Please provide the credit card number for advance payment after waiting for the phone call from the store",
+
+      "dialog": {
+        "tipsTitle": "Tip",
+        "confirmMessage": "Are you sure to Submit order",
+        "confirmOK": "OK",
+        "confirmCancel": "Cancel"
+      },
+      "warning": {
+        "tipsTitle": "Warn",
+        "phonewarn": "Please input Phone number or phone number is invalidate",
+        "orderWarn": "error order",
+        "addrwarn": "Please input Address for delivery",
+        "creditwarn": "Please input Credit information"
+      }
+    },
+    "menu": {
+      "title": "Food Menu",
+      "myorder": "My Order"
+    }
+  }
+}

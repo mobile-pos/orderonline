@@ -1,0 +1,162 @@
+{
+  "message": {
+    "lang": "zh",
+    "button": {
+      "sure": "确定",
+      "cancel": "取消"
+    },
+    "abortOpt": {
+      "abortOptions": "你已放弃了当前操作"
+    },
+    
+    "flavor": {
+      "required": {
+        "warn": "有必选项不能为空"
+      }
+    },
+    "goods": {
+      "selledInMonth": "月销售",
+      "unit": "份",
+      "goodEvaluate": "好评率",
+      "currency": "$",
+      "inputShopCar": "加入购物车",
+      "selectFlavor": "选规格",
+      "normal": "标准"
+    },
+    "flavors": {
+      "necessary": "必选一项",
+      "multipleOptions": "多选项(可不选)",
+      "specialReq": "请输入你的特殊要求"
+    },
+    "errorTips": {
+      "255": "T该餐馆没有正常上线，请联系服务员",
+      "otherCode": "输入参数异常，返回码为: ",
+      "netError": "网络异常，暂无法获取跟随项数据，10秒后重试"
+    },
+    "sellers": {
+      "activities": "个活动",
+      "preferential": "优惠活动",
+      "bulletin": "商家公告"
+    },
+    "shopcarts": {
+      "shopcart": "购物车",
+      "empty": "清空"
+    },
+    "app": {
+      "pages": {
+        "restaurantsNearby": "附近餐厅",
+        "restaurantsPosition": "附近餐厅",
+        "worktime": "工作时间",
+        "phone": "餐厅电话",
+        "mineInfo": "个人信息",
+        "login": "登录",
+        "myCollection": "我的收藏",
+        "myRestaurants": "我的足迹",
+        "myAddress": "送餐地址",
+        "about": "关于",
+        "oneMore": "再来一份",
+        "currentContact": "用户"
+      },
+      "Home": "首页",
+      "Orders": "订单",
+      "Mine": "我的"
+    },
+    "pad": {
+      "currentTableID": "当前桌号",
+      "chooseTableID": "选择就餐桌号"
+    },
+    "table": {
+      "tableID": "桌号",
+      "selTableID": "已选中",
+      "unknownTable": "未知桌号"
+    },
+    "shopcart": {
+      "orderedTips": "下单成功",
+      "state": {
+        "queueUp": "排队中",
+        "cooking": "烹饪中",
+        "delivering": "配送中",
+        "giveUp": "已放弃",
+        "finish": "已结单"
+      },
+      "contact": {
+        "confirmContact": "确认联系方式",
+        "phone": "电话",
+        "phoneTips": "输入电话号码",
+        "name": "姓名",
+        "nameTips": "输入姓名",
+        "address": "地址",
+        "addressTips": "输入送餐地址",
+        "gratuity": "小费",
+        "gratuityTips": "送餐小员辛苦了,送给服务员的小费",
+        "mark": "备注信息",
+        "markTips": "输入想对厨师说的话",
+        "incompleteInfor": "请确认你的联系方式: 姓名，地址，电话不能为空",
+        "pay-tips": "请保持电话畅通，你的选餐很快即将送达，请提前准备现金零钱，以便能快速支付，从而结省你的时间"
+      },
+      "tips": {
+        "order": "下单",
+        "orderAlarm1": "您预计消息",
+        "orderAlarm2": "，确定下单吗？"
+      },
+      "button": {
+        "payDesc1": "去下单",
+        "payDesc2": "追加单"
+      }
+    },
+    "queue": {
+      "receiptTitle": "堂食点餐&nbsp;&nbsp;消费清单",
+      "queueID": "排队号",
+      "waitCount": "等待人数",
+      "submitTime": "提交时间",
+      "foodName": "菜品",
+      "count": "数量",
+      "price": "单价",
+      "amount": "总金额"
+    },
+    "ordering": {
+      "title": "提交订单",
+      "takeFoodType": "选择取餐方式：",
+      "deliver": "送餐到家",
+      "pickup": "自往取餐",
+      "contact": "联系方式",
+      "phone": "电话",
+      "table": "桌台",
+      "address": "地址",
+      "phoneTips": "请输入电话号码",
+      "addressTips": "请输入送餐地址",
+      "prePayType": "预付方式: ",
+      "creditCard": "信用卡",
+      "orderDetail": "订单详情",
+      "total": "小计",
+      "tax": "税费",
+      "amount": "合计",
+      "mark": "备注",
+      "markTips": "输入备注事项",
+
+      "cancel": "取消",
+      "submit": "提交",
+      "orderTips": "实际应付费用以现场订单小票为准",
+
+      "creditOrderdTips": "等待店家回电后请提供信用卡号以便预付",
+
+      "dialog": {
+        "tipsTitle": "提示",
+        "confirmMessage": "确认提交订单",
+        "confirmOK": "确认",
+        "confirmCancel": "取消"
+      },
+      "warning": {
+        "tipsTitle": "出错",
+        "phonewarn": "请输入电话，或电话号码无效",
+        "orderWarn": "订单无效",
+        "addrwarn": "请输入地址",
+        "creditwarn": "请输入信用卡信息"
+      }
+    },
+    "menu": {
+      "title": "优选美食",
+      "myorder": "我的订单"
+    }
+  }
+}
